@@ -6,6 +6,7 @@ function App() {
   return (
     <div className='w-full h-screen duration-200 ' style={{backgroundColor:color}}>
       <h1 className='text-center pt-40 text-3xl text-neutral-50'>Practice Project</h1>
+      <p className='text-center text-neutral-100' >Developed By: Mohd Rahim Ali</p>
 
       <div className='fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2'>
         <div className='flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl'>
